@@ -1,0 +1,25 @@
+In this project, I explored NLP Cloud to understand how Large Language Models (LLMs) and APIs work in real-world applications.
+I implemented a console-based Login & Register system (without using any GUI) to strengthen my understanding of backend logic, API handling, and authentication flow.
+
+This project focuses on:
+
+Learning how LLM-powered services can be integrated using APIs
+
+Understanding model selection and usage in NLP Cloud
+
+Building a menu-driven authentication system using Python
+
+Applying Object-Oriented Programming (OOP) concepts in a real project
+
+
+🧠 Project 1: NLP-Based Login & Register System (Without GUI)
+
+Built a command-line interface (CLI) based application
+
+Implemented Register & Login functionality using Python classes
+
+Used NLP Cloud APIs to explore NLP features and LLM behavior
+
+Focused on logic building instead of UI, to strengthen core concepts
+
+Gained hands-on experience with API keys, requests, and responses
